@@ -10,13 +10,13 @@ I'm a Data Science major at UNC Charlotte with experience in analytics, machine 
 
 ## Featured Projects
 - ### Facilities Management Data Pipeline
-Automated data cleaning and standardization workflows to support campus operations, improve reporting accuracy, and streamline analytics for Facilities Management.
+  Automated data cleaning and standardization workflows to support campus operations, improve reporting accuracy, and streamline analytics for Facilities Management.
 
 - ### Machine Learning & Analytics Projects
-Hands‑on projects involving predictive modeling, exploratory analysis, and end‑to‑end ML workflows using Python and scikit‑learn.
+  Hands‑on projects involving predictive modeling, exploratory analysis, and end‑to‑end ML workflows using Python and scikit‑learn.
 
 - ### Web Development & Creative Design
-Front‑end experiments that combine clean design, usability, and technical structure.
+  Front‑end experiments that combine clean design, usability, and technical structure.
 
 ## What I'm Working On
 - Strengthening my Data Science skills through new projects  
