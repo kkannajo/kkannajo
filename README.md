@@ -8,7 +8,7 @@ I'm a Data Science major at UNC Charlotte with experience in analytics, machine 
 - **Tools:** Jupyter Notebook, Git/GitHub, Tableau, Excel  
 - **Focus Areas:** Data cleaning, EDA, ML modeling, workflow optimization, web development
 
-## 📌 Featured Projects
+## Featured Projects
 ### Facilities Management Data Pipeline
 Automated data cleaning and standardization workflows to support campus operations, improve reporting accuracy, and streamline analytics for Facilities Management.
 
@@ -22,5 +22,5 @@ Front‑end experiments that combine clean design, usability, and technical stru
 - Strengthening my Data Science skills through new projects  
 
 ## Connect With Me
-- **LinkedIn:** *add your link*  
-- **Email:** *add your email*
+- **LinkedIn:** [*add your link* ](http://www.linkedin.com/in/kruthi-kannajoshyula) 
+- **Email:** kkannajoshyula@gmail.com
