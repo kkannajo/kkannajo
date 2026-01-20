@@ -22,5 +22,5 @@ Front‑end experiments that combine clean design, usability, and technical stru
 - Strengthening my Data Science skills through new projects  
 
 ## Connect With Me
-- **LinkedIn:** [*add your link* ](http://www.linkedin.com/in/kruthi-kannajoshyula) 
+- **LinkedIn:** http://www.linkedin.com/in/kruthi-kannajoshyula 
 - **Email:** kkannajoshyula@gmail.com
